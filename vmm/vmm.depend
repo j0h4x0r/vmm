@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1371276472 source:f:\a\vmm\vmm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"vmm.h"
+
+1371274736 f:\a\vmm\vmm.h
+
